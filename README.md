@@ -1,6 +1,6 @@
 # cryptocurrency
 
-A new Flutter project.
+A cryptocurrency application designed by flutter.
 
 ## Getting Started
 
