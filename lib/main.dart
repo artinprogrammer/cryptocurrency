@@ -1,4 +1,4 @@
-import 'package:cryptocurrency/features/feature_intro/intro_screen.dart';
+import 'package:cryptocurrency/features/feature_intro/presentation/screens/intro_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
